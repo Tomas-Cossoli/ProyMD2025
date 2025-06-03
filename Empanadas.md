@@ -25,4 +25,6 @@
 **Sabores Express**: 4,7 estrellas
 ---
 ## Conclusiòn:
-##### Si buscas calidad elige Cosa Nostra, y si buscas economia mejor Sabores Express
+##### Si buscas calidad elige Cosa Nostra, y si buscas economia mejor Sabores Express¸
+---
+![Gracias por leer](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPe0hBgR6rJ-Fh6QKC1awSDRzBHhTyuSZVTw&s)
