@@ -1,0 +1,39 @@
+p {
+    color: rgb(5, 3, 116);
+}
+
+div {
+    background-color: blanchedalmond;
+    width: auto;
+    height: auto;
+    margin: 10px;
+    padding: 10px;
+    display: inline-block;
+    border-radius: 20px;
+}
+
+div > img {
+    height: 200px;
+    width: 250px;
+}
+
+ul {
+    list-style: disclosure-closed;
+}
+
+body {
+    background-color: rgb(255, 253, 242);
+    text-align: center;
+}
+
+h2 {
+    color: rgb(184, 0, 0);
+}
+
+h1 {
+    color: rgb(136, 100, 68);
+}
+
+h4 {
+    color: rgb(5, 3, 116);
+}
